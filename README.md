@@ -1,7 +1,7 @@
 # Blog website
 
 
-**Ripa's blog** is a blog website using [Zola](https://www.getzola.org/) **Ataraxia** theme.
+**Ripa's blog** is a blog website using [Zola](https://www.getzola.org/) ["Ataraxia"](https://github.com/gersonbenavides/ataraxia-zola) theme.
 
 A personal theme for [Zola](https://www.getzola.org/) focused on readability that aims to be simple, beautiful, and modern. It is designed to support multiple languages and be highly customizable.
 
